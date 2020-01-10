@@ -1,0 +1,22 @@
+{
+  "name": "heroku-bind-port",
+  "version": "1.0.0",
+  "description": "A simple NPM package to bind $PORT for none web-based scripts. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sean12697/heroku-bind-port.git"
+  },
+  "author": "Sean O'Mahoney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sean12697/heroku-bind-port/issues"
+  },
+  "homepage": "https://github.com/Sean12697/heroku-bind-port#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
